@@ -2,6 +2,5 @@
     "name": "adrum",
     "version": "1.0.0",
     "main": "adrum.js",
-    "license": "UNLICENSED",
-    "private": true
+    "license": "UNLICENSED"
 }
