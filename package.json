@@ -1,5 +1,5 @@
 {
-    "name": "AppDynamics JavaScript Agent",
+    "name": "adrum",
     "version": "1.0.0",
     "main": "adrum.js",
     "license": "UNLICENSED",
